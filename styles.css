@@ -30,7 +30,7 @@ html {
     width: 300px;
   }
   a {
-    color: #FFE66D;
+    color: #f4e9df;
   }
   a:hover {
     text-decoration: none;
@@ -110,7 +110,7 @@ html {
   /* Contact Info
   ------------------------------------*/
   footer {
-    background: #343434;
+    background: #2ab0a7;
     color: #F7FFF7;
   }
   .contact-list {
@@ -134,11 +134,6 @@ html {
       margin-right: 20px;
     }
   
-    .job-item {
-      display: grid;
-      grid-template-columns: 1fr 2fr;
-      column-gap: 20px;
-    }
     .contact-list {
       display: flex;
       justify-content: center;
